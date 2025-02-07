@@ -1,0 +1,17 @@
+input{
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+    color: white;
+    background-color: #1a3d7c;
+    border: 0 none;
+    text-align: center;
+    box-shadow: 0 0 0 0;
+    align-items: center;
+     margin: 0;
+}
+
+body{
+    padding: 0;
+    text-align: center;
+}
