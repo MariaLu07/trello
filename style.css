@@ -1,11 +1,10 @@
 .caixa{
     width: 350px;
-    height: 20px;
+    height: px;
     background-color: lightgray;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 60px;
 }
 
 .caixa input {
@@ -26,18 +25,12 @@
     justify-content: center;
     margin-top: 40px;
 }
-.comentario {
-  width: 300px;
-  margin-top: 5px;
-  padding: 10px;
-  display: flex;
-  align-items: flex-start;
-}
+
 .caixa2 input {
     font-size: 20px;
     color: white;
     border: none;
-    background-color:rgb(78, 78, 82);
+    background-color:lightgray;
     text-align: center;
     width: 100%;
     outline: none;
@@ -99,4 +92,5 @@ top: 40px;
     width: 30px;
     height: 30px;
     margin: none;
+    border: none;
 }
